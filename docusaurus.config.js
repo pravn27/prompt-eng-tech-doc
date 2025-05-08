@@ -109,10 +109,10 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "ReactJS",
+            title: "Prompt Eng",
             items: [
               {
-                label: "ReactJS",
+                label: "Prompt Eng",
                 to: "/docs/category/reactjs-documentations",
               },
             ],
@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ReactJS tech docs. Built with Docusaurus`,
+        copyright: `Copyright © ${new Date().getFullYear()} Prompt Eng tech docs. Built with Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,
