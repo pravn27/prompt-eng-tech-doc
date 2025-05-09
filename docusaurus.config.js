@@ -86,7 +86,7 @@ const config = {
           // },
           {
             to: "/docs/introduction/intro",
-            label: "Prompt Eng",
+            label: "Prompt Engineering",
             position: "left",
           },
           {
