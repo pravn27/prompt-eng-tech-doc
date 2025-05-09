@@ -85,7 +85,7 @@ const config = {
           //   label: "About VS System",
           // },
           {
-            to: "/docs/category/reactjs-documentations",
+            to: "/docs/introduction/intro",
             label: "Prompt Eng",
             position: "left",
           },
@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: "Prompt Eng",
-                to: "/docs/category/reactjs-documentations",
+                to: "/docs/introduction/intro",
               },
             ],
           },
